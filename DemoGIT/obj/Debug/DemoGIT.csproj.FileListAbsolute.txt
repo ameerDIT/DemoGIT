@@ -1,0 +1,6 @@
+D:\DATA\DemoGIT\DemoGIT\bin\Debug\DemoGIT.exe.config
+D:\DATA\DemoGIT\DemoGIT\bin\Debug\DemoGIT.exe
+D:\DATA\DemoGIT\DemoGIT\bin\Debug\DemoGIT.pdb
+D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.csprojResolveAssemblyReference.cache
+D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.exe
+D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.pdb
