@@ -4,3 +4,9 @@ D:\DATA\DemoGIT\DemoGIT\bin\Debug\DemoGIT.pdb
 D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.csprojResolveAssemblyReference.cache
 D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.exe
 D:\DATA\DemoGIT\DemoGIT\obj\Debug\DemoGIT.pdb
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\bin\Debug\DemoGIT.exe.config
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\bin\Debug\DemoGIT.exe
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\bin\Debug\DemoGIT.pdb
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\obj\Debug\DemoGIT.csprojResolveAssemblyReference.cache
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\obj\Debug\DemoGIT.exe
+D:\DATA\GITDemo\SanpleGIT\DemoGIT\obj\Debug\DemoGIT.pdb
